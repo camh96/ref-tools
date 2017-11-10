@@ -1,4 +1,6 @@
-# README
+# Football Referee Tools:
+
+This a Work in Progress!
 
 This app is me trying to use Angular.js with a framework I am already familiar with, RoR.
 
