@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is me trying to use Angular.js with a framework I am already familiar with, RoR.
 
-Things you may want to cover:
+## Requirements:	
 
-* Ruby version
+* Phone with a vibration sensor
 
-* System dependencies
+* Android ICS(4.0) / iOS 6 or later
 
-* Configuration
+* Mozilla Broswer for your phone!! App will not work without it, as it runs off Mozilla APIs
 
-* Database creation
 
-* Database initialization
+## This app will have: 
 
-* How to run the test suite
+* A countdown/count up timer to keep track of time played and extra time
 
-* Services (job queues, cache servers, search engines, etc.)
+* List of players on the pitch, and their kit numbers (sanctions done here)
 
-* Deployment instructions
+* Ability to page the referee by other match official through vibrations
 
-* ...
+* Sanction players and record goals, etc and the time they were scored
